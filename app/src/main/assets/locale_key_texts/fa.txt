@@ -1,4 +1,10 @@
 [popup_keys]
+ص ض
+ع غ
+ط ظ
+ز ژ
+د ذ
+گ ء
 ه ﻫ|ه‍ هٔ ة
 ی ئ ي ﯨ|ى
 ا !fixedColumnOrder!5 آ ء ٱ أ إ
